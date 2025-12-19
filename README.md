@@ -1,0 +1,1 @@
+# DuckDB-GeoParquet-Source-Cooperative
